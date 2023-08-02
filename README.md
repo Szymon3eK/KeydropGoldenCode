@@ -23,5 +23,5 @@ if u see this message, bot works!
 
 # images
 <img src = "./imgsGithub/GOLDEN.PNG">
-<img src = "./imgsGithub/ON.PNG">
+<img src = "./imgsGithub/ON.png">
 
