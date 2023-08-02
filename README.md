@@ -13,8 +13,15 @@ Auto redeem codes to keydrop
 9. drag this file into cookies folder
 10. Write **node index.js** into cmd
 
-**YOUR BOT IS ACTIVE!**
+![image](https://github.com/Szymon3eK/KeydropGoldenCode/assets/68203358/6109c580-aa6b-41ae-a38d-ad923d9a8412)
+<br />
+if u see this message, bot works!
 
 # commands
 
 /info - your profile (gold, money)
+
+# images
+![image](https://github.com/Szymon3eK/KeydropGoldenCode/assets/68203358/1e50cac3-2151-4050-b438-eed99a3151c9)
+![image](https://github.com/Szymon3eK/KeydropGoldenCode/assets/68203358/854d7397-2611-4d1d-b2d0-4b83f8b15984)
+
