@@ -13,7 +13,7 @@ Auto redeem codes to keydrop
 9. drag this file into cookies folder
 10. Write **node index.js** into cmd
 
-<img src = "./imgsGithub/info.PNG">
+<img src = "./imgsGithub/ENABLE.png">
 <br />
 if u see this message, bot works!
 
@@ -23,5 +23,5 @@ if u see this message, bot works!
 
 # images
 <img src = "./imgsGithub/GOLDEN.PNG">
-<img src = "./imgsGithub/ENABLE.png">
+<img src = "./imgsGithub/info.PNG">
 
